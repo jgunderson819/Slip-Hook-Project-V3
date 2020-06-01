@@ -24,11 +24,11 @@ Things for the future.
 
 Below are some screenshots for our site to show all you can do with the site.
 
-![Home Page](./public/static/Sliphookhome.JPG)
+![Home Page](./client/public/static/Sliphookhome.JPG)
 
-![Weather Page](./public/static/sliphookweather.JPG)
+![Weather Page](./client/public/static/sliphookweather.JPG)
 
-![Link Page](./public/static/linkpage.JPG)
+![Link Page](./client/public/static/Linkpage.JPG)
 
 ![Admin Page](./client/public/static/Admin.JPG)
 
