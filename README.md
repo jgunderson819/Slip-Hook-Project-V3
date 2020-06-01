@@ -1,5 +1,7 @@
 #Slip Hook Project
 
+This project can be viewed at http://ec2-18-209-223-99.compute-1.amazonaws.com/
+
 The contributors to this project were:
 
 Ryan Oakley
